@@ -12,7 +12,7 @@ const Splash = () => {
   return (
     <div className="splash-page">
       <div className="icons">
-        <a href="https://www.linkedin.com/company/dock">
+        <a href="https://www.linkedin.com/company/dockter">
           <LinkedinFilled style={{ fontSize: '32px', paddingRight: '15px' }} />
         </a>
         <a href="https://github.com/oslabs-beta/Dockter">
