@@ -21,7 +21,7 @@ const Authors = () => {
               style={{ width: 240 }}
               cover={<img alt="Brower" src={Benjamin} />}
             >
-              <Meta title="Benjamin Brower" description="Fullstack Engineer" />
+              <Meta title="Benjamin Brower" description="Software Engineer" />
             </Card>
           </Col>
           <Col span={4}>
@@ -30,7 +30,7 @@ const Authors = () => {
               style={{ width: 240 }}
               cover={<img alt="Ramdass" src={Anup} />}
             >
-              <Meta title="Anup Ramdass" description="Fullstack Engineer" />
+              <Meta title="Anup Ramdass" description="Software Engineer" />
             </Card>
           </Col>
           <Col span={4}>
@@ -39,7 +39,7 @@ const Authors = () => {
               style={{ width: 240 }}
               cover={<img alt="Kousholt" src={Nancy} />}
             >
-              <Meta title="Nancy Kousholt" description="Fullstack Engineer" />
+              <Meta title="Nancy Kousholt" description="Software Engineer" />
             </Card>
           </Col>
           <Col span={4}>
@@ -48,7 +48,7 @@ const Authors = () => {
               style={{ width: 240 }}
               cover={<img alt="Whang" src={Kyle} />}
             >
-              <Meta title="Kyle Whang" description="Fullstack Engineer" />
+              <Meta title="Kyle Whang" description="Software Engineer" />
             </Card>
           </Col>
         </Row>
